@@ -44,7 +44,7 @@ To analyze the "Superstore" dataset to identify key drivers of sales and profit,
 
 ## 🖼️ Final Dashboard Preview
 
-[Sales Performance Dashboard](Screenshot 2025-10-13 124049.png)
+![Class Distribution](images/dashboard.png)
 
 ---
 
